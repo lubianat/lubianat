@@ -7,7 +7,7 @@
 - :computer: Currently working on:
   - :globe_with_meridians: refining [the concept of cell type](https://github.com/lubianat/technotype)
   - :gem: reconciliating databases to Wikidata (like [PanglaoDB](https://github.com/jvfe/wikidata_panglaodb) and [Cellosaurus](https://github.com/lubianat/cellosaurus-wikidata-bot))
-  - :pencil2: annotating of articles to Wikidata identifiers (in [Ann](https://github.com/lubianat/ann/issues/36)) 
+  - :pencil2: annotating biomedical text with Wikidata identifiers (via [Ann](https://github.com/lubianat/ann/issues/36)) 
 - 🌱 Learning mandarin (你好) and re-learning to program ( :purple_heart: [CS50](https://cs50.harvard.edu/x/2020/))
 - :key: Open knowledger
 - :man_student: Interested in logics and ethics
