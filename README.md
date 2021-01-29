@@ -8,11 +8,13 @@
   - :globe_with_meridians: refining [the concept of cell type](https://github.com/lubianat/technotype)
   - :gem: reconciliating databases to Wikidata (like [PanglaoDB](https://github.com/jvfe/wikidata_panglaodb) and [Cellosaurus](https://github.com/lubianat/cellosaurus-wikidata-bot))
   - :pencil2: annotating biomedical text with Wikidata identifiers (via [Ann](https://github.com/lubianat/ann/issues/36)) 
-- 🌱 Learning mandarin (你好) and re-learning to program ( :purple_heart: [CS50](https://cs50.harvard.edu/x/2020/))
+- 🌱 Learning mandarin (你好) and re-learning to program ( :purple_heart: [CS50](https://cs50.harvard.edu/x/2021/))
 - :key: Open knowledger
 - :man_student: Interested in logics and ethics
 - :lotus_position_man: Live good, long and prosper 
 
 `1.1 Die Welt ist die Gesamheit der Tatsachen, nicht der Dinge.` - Ludwig Wittgenstein, _Tractatus Logico-Philosophicus_
 
-(updated 50-12-27)
+`Everything is vague to a degree you do not realize till you have tried to make it precise.` - Bertrand Russell ([here](https://users.drew.edu/jlenz/br-logical-atomism1.html))
+ 
+(updated 51-01-29)
