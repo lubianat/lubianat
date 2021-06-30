@@ -1,7 +1,7 @@
 ### It's me, Tiago
 
 - :mushroom: Biomedical scientist by training, biologist by heart, programmer by luck
-- :book: PhD candidate in [Bioinformatics](https://www.ime.usp.br/en/graduate/bioinformatics/) at the University of São Paulo
+- :book: PhD student in [Bioinformatics](https://www.ime.usp.br/en/graduate/bioinformatics/) at the University of São Paulo
 - :japanese_castle: Research Scholar (at [Institute Ronin](http://ronininstitute.org/))
 - :bar_chart: [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) enthusiast
 - :computer: Currently working on:
