@@ -13,8 +13,4 @@
 - :man_student: Interested in logics and ethics
 - :lotus_position_man: Live good, long and prosper 
 
-`1.1 Die Welt ist die Gesamheit der Tatsachen, nicht der Dinge.` - Ludwig Wittgenstein, _Tractatus Logico-Philosophicus_
-
-`Everything is vague to a degree you do not realize till you have tried to make it precise.` - Bertrand Russell ([here](https://users.drew.edu/jlenz/br-logical-atomism1.html))
- 
 (updated 51-01-29)
