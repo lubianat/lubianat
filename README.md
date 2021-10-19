@@ -7,7 +7,7 @@
 - :computer: Currently working on:
   - :globe_with_meridians: refining [the concept of cell type](https://github.com/lubianat/technotype)
   - :gem: reconciliating databases to Wikidata (like [PanglaoDB](https://github.com/jvfe/wikidata_panglaodb) and [Cellosaurus](https://github.com/lubianat/cellosaurus-wikidata-bot))
-  - :pencil2: developing an Wikidata-based literature manager / dashboard(via [Wikidata Bib](https://github.com/lubianat/wikidata_bib)) 
+  - :pencil2: developing an Wikidata-based literature manager / dashboard (via [Wikidata Bib](https://github.com/lubianat/wikidata_bib)) 
 - 🌱 Learning mandarin (你好)
 - :key: Open knowledger
 - :man_student: Interested in logics and ethics
