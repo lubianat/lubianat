@@ -10,7 +10,6 @@
   - :pencil2: developing an Wikidata-based literature manager / dashboard (via [Wikidata Bib](https://github.com/lubianat/wikidata_bib)) 
 - 🌱 Learning mandarin (你好)
 - :key: Open knowledger
-- :man_student: Interested in logics and ethics
 - :lotus_position_man: Live good, long and prosper 
 
 (updated 51-10-18)
