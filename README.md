@@ -1,7 +1,7 @@
 ### It's me, Tiago
 
-- :mushroom: Biomedical scientist by training, biologist by heart, programmer by luck
-- :book: PhD candidate in [Bioinformatics](https://www.ime.usp.br/en/graduate/bioinformatics/) at the University of São Paulo
+- :mushroom: Life scientist by training, programmer by luck
+- :book: PhD in Bioinformatics (University of São Paulo)
 - :bar_chart: [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) enthusiast
 -----------------------------------------
 
